@@ -1,23 +1,26 @@
 # Koro Data Analysis Project
 
-This project focuses on analyzing public data from the website [koro.com](https://www.koro.com). The goal is to explore and draw meaningful conclusions from the data, such as trends, patterns, and insights related to the products or other available information.
+This project focuses on analyzing public data from the website [korodrogerie.com](https://www.korodrogerie.de/). The goal is to explore and draw meaningful conclusions from the data, such as trends, patterns, and insights related to the products or other available information.
 
 ## Project Overview
-I collected data from the website and used Excel and Python for data analysis. I focused on `snacks` section. The conclusions were based on this analysis, and the results are presented in Excel.
+I collected data from the website and used Excel and Python for data analysis. I focused on `Sweet snacks and Protein bars` section. The conclusions were based on this analysis, and the results are presented in Excel.
 
 ### Key Conclusions
-- **Trend 1**: Brief explanation of a significant trend.
-- **Insight 2**: Explanation of another key insight.
-- **Observation 3**: Mention any interesting observations.
+- *83% of all products in this category are produced in Portugal, Bulgaria and Germany.
+- Country-Specific Stock Issues: Regarding Germany: Multiple products sourced from
+Germany are sold out, such as Protein bars. This indicates that products made in
+Germany, particularly in the protein bar category, may be in higher demand.
+- Higher-Priced Items (€2.25 - €2.50): Many of the sold-out products are priced in the
+€2.25 - €2.50 range, especially in the protein bar and vegan categories, suggesting
+that consumers are willing to pay a premium for quality ingredients or specific
+categories (e.g., protein and vegan products).*
 
 ## Screenshots
-Here are some visuals from the analysis:
 
-1. Screenshot 1: *Description of the screenshot (e.g., a graph showing product price trends)*
-2. Screenshot 2: *Another description (e.g., a table highlighting popular product categories)*
+![screenshot](report.png)
 
 ## Files Included
-- **[Data Analysis Report (Excel)](link-to-excel-file)**: A detailed report of the analysis, including tables, graphs, and summaries.
+- **[Data Analysis Report (Excel)](./KoRo%20analysis.xlsx)**: A detailed report of the analysis, including tables, graphs, and summaries.
 - **Python Code**: The Python scripts used for data collection, cleaning, and analysis can be found in the `scripts/` folder.
 - **`requirements.txt`**: Lists all the Python packages and dependencies needed to run the code.
 
