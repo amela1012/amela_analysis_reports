@@ -1,4 +1,4 @@
-# Koro Data Analysis Project
+# KoRo Data Analysis Project
 
 This project focuses on analyzing public data from the website [korodrogerie.com](https://www.korodrogerie.de/). The goal is to explore and draw meaningful conclusions from the data, such as trends, patterns, and insights related to the products or other available information.
 
@@ -33,7 +33,7 @@ categories (e.g., protein and vegan products).*
 
 2. Navigate to the project folder:
     ```bash
-    cd koro-data-analysis
+    cd koro-data-analysis/scripts
     ```
 
 3. Install the required Python packages:
@@ -43,7 +43,6 @@ categories (e.g., protein and vegan products).*
 
 4. Run the Python scripts to analyze the data:
     ```bash
-    cd scripts
     python analyze_data.py
     ```
 
